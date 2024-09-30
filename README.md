@@ -1,2 +1,1 @@
-# EggHockey
-Desafio integrador del bootcamp de Egg Backend con Java
+# Migthy Ducks Hockey League
